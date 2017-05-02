@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Blade Snippets",
+		"Clipboard Manager",
+		"Codecs33",
+		"CodeFormatter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"GBK Support",
+		"Git",
+		"JavaScript & NodeJS Snippets",
+		"Jimbly's Clipboard History",
+		"jQuery",
+		"JsFormat",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Node Completions",
+		"Nodejs",
+		"NodeRequirer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SyncedSidebarBg",
+		"Theme - Afterglow"
+	]
+}
