@@ -1,9 +1,10 @@
 {
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"Codecs33",
 		"Vintage"
 	],
 	"sidebar_row_padding_medium": true,

@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Codecs33"
 	],
 	"installed_packages":
 	[
@@ -19,11 +20,14 @@
 		"GBK Support",
 		"Git",
 		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
 		"Jimbly's Clipboard History",
 		"jQuery",
 		"JsFormat",
 		"Laravel 5 Artisan",
 		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Node Completions",
 		"Nodejs",
 		"NodeRequirer",
