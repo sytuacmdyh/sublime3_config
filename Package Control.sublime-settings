@@ -8,6 +8,7 @@
 	[
 		"Alignment",
 		"AutoFileName",
+		"Babel",
 		"Blade Snippets",
 		"Clipboard Manager",
 		"Codecs33",
@@ -31,6 +32,9 @@
 		"Nodejs",
 		"NodeRequirer",
 		"Package Control",
+		"react-native-snippets",
+		"ReactJS",
+		"Sass",
 		"SideBarEnhancements",
 		"SyncedSidebarBg",
 		"Theme - Afterglow"
