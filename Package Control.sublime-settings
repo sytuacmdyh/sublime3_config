@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Codecs33"
 	],
 	"installed_packages":
 	[
@@ -36,7 +35,10 @@
 		"ReactJS",
 		"Sass",
 		"SideBarEnhancements",
+		"Sublimerge 3",
 		"SyncedSidebarBg",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"Vue Syntax Highlight",
+		"VueFormatter"
 	]
 }

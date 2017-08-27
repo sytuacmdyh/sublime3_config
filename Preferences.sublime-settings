@@ -1,10 +1,44 @@
 {
+	"codeformatter_html_options":
+	{
+		"custom_singletons": "",
+		"exception_on_tag_mismatch": false,
+		"expand_javascript": false,
+		"expand_tags": false,
+		"first_attribute_on_new_line": false,
+		"format_on_save": false,
+		"indent_char": " ",
+		"indent_size": 4,
+		"indent_with_tabs": false,
+		"minimum_attribute_count": 2,
+		"reduce_empty_tags": false,
+		"reduce_whole_word_tags": false,
+		"syntaxes": "html,asp,xml"
+	},
+	"codeformatter_php_options":
+	{
+		"enable_auto_align": true,
+		"excludes":
+		[
+		],
+		"format_on_save": false,
+		"indent_with_space": 4,
+		"passes":
+		[
+		],
+		"php_path": "",
+		"psr1": false,
+		"psr1_naming": false,
+		"psr2": true,
+		"smart_linebreak_after_curly": true,
+		"syntaxes": "php",
+		"visibility_order": true
+	},
 	"color_inactive_tabs": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Codecs33",
 		"Vintage"
 	],
 	"preview_on_click": false,
